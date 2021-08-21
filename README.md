@@ -1,4 +1,5 @@
-# UDEMY_BI_ANALYST
+# BI_ANALYST_COURSE
 
-The Business Intelligence Analyst Course 2021 by 365 CAREERS
+The Business Intelligence Analyst Course
+
 Personal work on exercises provided
